@@ -7,6 +7,8 @@
 </head>
 <link rel="stylesheet" href="style.css">
 <body>
-    
+    <?php
+    echo = "helloworld";
+    ?>
 </body>
 </html>
